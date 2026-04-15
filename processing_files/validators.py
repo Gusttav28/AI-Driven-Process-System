@@ -1,7 +1,6 @@
 from fastapi import HTTPException, UploadFile
 from typing import Set
 import magic
-import aiofiles
 
 """ 
 Class FileValidator, with this clases we're gonna be able to validate
@@ -29,8 +28,10 @@ class FileValidator:
             "image/png",
             "image/jpg",
             "application/pdf",
-            "application/xlsx",
-            "application/docx",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "text/csv",
+            "text/plain",
             "application/csv"
         }
         

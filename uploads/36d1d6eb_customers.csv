@@ -1,0 +1,13 @@
+Name,Email,Phone,Status,Date Joined,Lifetime Value
+"Karen White","karen@example.com","+1-555-0111","active","2026-03-15","1200"
+"Thomas Brown","thomas@example.com","+1-555-0110","active","2026-03-01","2900"
+"Jennifer Lee","jennifer@example.com","+1-555-0109","active","2026-02-14","7800"
+"Amanda Foster","amanda@example.com","+1-555-0107","active","2026-01-08","4300"
+"David Kim","david@example.com","+1-555-0106","active","2025-12-20","6700"
+"James Rodriguez","james@example.com","+1-555-0104","active","2025-11-10","3800"
+"Emma Williams","emma@example.com","+1-555-0103","active","2025-10-01","5200"
+"Brian Martinez","brian@example.com","+1-555-0112","inactive","2025-09-28","950"
+"Michael Chen","michael@example.com","+1-555-0102","active","2025-08-22","12000"
+"Lisa Park","lisa@example.com","+1-555-0105","inactive","2025-07-05","2100"
+"Sarah Johnson","sarah@example.com","+1-555-0101","active","2025-06-15","8500"
+"Robert Taylor","robert@example.com","+1-555-0108","churned","2025-05-12","1500"
